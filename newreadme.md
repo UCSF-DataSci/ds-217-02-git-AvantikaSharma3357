@@ -29,7 +29,7 @@ Answer: 233168
     3. Hello, my name is Avantika Sharma. I'm so excited to learn Python this quarter but I'm kind of scared too because I don't have a lot of programming experience. I'm in the program because I'd love to become a data scientist in the future so I'd love to learn enough to code by myself and feeling  comfortable enough finding bugs in my code 
 ## 6. [Python Link](https://www.python.org)
 ## 7. Pip install screenshot : 
-![My screenshot](/Numpy_install.png "Numpy installation")
+![My screenshot](https://github.com/UCSF-DataSci/ds-217-02-git-AvantikaSharma3357/blob/main/Numpy_Install.png?raw=true "Numpy installation")
 ## 8. My meme: 
 ![My Meme](https://img.delicious.com.au/WqbvXLhs/del/2016/06/more-the-merrier-31380-2.jpg)
 
